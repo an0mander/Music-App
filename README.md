@@ -20,8 +20,7 @@ LyricsGenius is a lightweight wrapper for the Genius API (Genius.com) and helps 
 the Genius website
 
 ## Setup
-For this project, I have hardcoded the the requisite authentication parameters for both Genius and Spotify so you don't need to do this step.
-The client access tokens are hard-coded for the purpose of this project
+The client access tokens would be procured by the user from Spotify and Genius for the purpose of this project
 
 
 #### Install Dependencies
